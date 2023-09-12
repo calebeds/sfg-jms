@@ -1,1 +1,6 @@
+/home/stefanini/Workspaces/java-workspace/sfg-jms/src/main/java/guru/springframework/sfgjms/model/HelloWorldMessage.java
+/home/stefanini/Workspaces/java-workspace/sfg-jms/src/main/java/guru/springframework/sfgjms/sender/HelloSender.java
+/home/stefanini/Workspaces/java-workspace/sfg-jms/src/main/java/guru/springframework/sfgjms/config/JmsConfig.java
 /home/stefanini/Workspaces/java-workspace/sfg-jms/src/main/java/guru/springframework/sfgjms/SfgJmsApplication.java
+/home/stefanini/Workspaces/java-workspace/sfg-jms/src/main/java/guru/springframework/sfgjms/config/TaskConfig.java
+/home/stefanini/Workspaces/java-workspace/sfg-jms/src/main/java/guru/springframework/sfgjms/listener/HelloMessageListener.java
